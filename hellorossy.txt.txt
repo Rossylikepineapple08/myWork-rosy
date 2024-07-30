@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Web | Portofolio</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar">
+        <nav>
+          <ul>
+            <li><a href="">ROSSY CAHAYA</a></li>
+            <li><a href="">CLASS XI RPL</a></li>
+            <li><a href="">P.WEB</a></li>
+            <li><a href="">SMKN 2 SUBANG</a></li>
+          </ul>
+        </nav>
+      </div>
+      <main class="content">
+        <section class="hero">
+          <img src="online.png" alt="" />
+          <div class="hero-content">
+            <h1>ALL ABOUT</h1>
+            <p>Saya saat ini bersekolah di SMKN 2 SUBANG, saya mengikuti jurusan RPL.
+                saya mengikuti organisasi Pasustar. </p>
+            <br />
+            <h2>pineapple</h2>
+            <br /><br />
+            <p>
+              Saya sangat suka nanas, karena buah nanas itu sangat menarik dan sangat unik..
+            rasa asin, manis, dan masam menjadi satu dan terciptalah suatu hal yang menyegarkan.
+            </p>
+            <a href="" class="action-btn">follow mee</a>
+          </div>
+        </section>
+      </main>
+      <div class="footer">
+        <footer>
+          <ul>
+            <li>
+              <img src="instagram.png" alt="" /><a><p>IG : ross.sssssy</p></a>
+            </li>
+          </ul>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
